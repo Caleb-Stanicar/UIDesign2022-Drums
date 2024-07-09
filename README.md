@@ -5,4 +5,4 @@ This is an interactive website made for a UI/UX Design class at Columbia Univers
 ## Usage
 After running these files you can either use the drumgrid editor or click through the website to learn more about genres and their connections to drum patterns.
 ## Project Status
-This project has been completed.
+This project has been completed and received an 'A'!
